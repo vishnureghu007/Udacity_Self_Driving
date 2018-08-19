@@ -3,7 +3,7 @@ In this project you will detect lane lines in images using Python and OpenCV.
 ---
 The goals / steps of this project are the following:
 ---
-1)Writing the helper functions using opencv 
+1)Writing the image processing functions using opencv for detecting lane from the input road image.
 ---
 2)Testing with set of images 
 ---
