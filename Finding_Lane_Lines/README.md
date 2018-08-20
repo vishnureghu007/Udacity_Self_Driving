@@ -45,6 +45,7 @@ Consisted of below steps.
 The above code tested for only straight roads. Improvements are possible for more complex scenarios and curvy roads.
 ---
 https://airccj.org/CSCP/vol5/csit53211.pdf
+---
 References:
 ---
 https://github.com/udacity/CarND-LaneLines-P1
